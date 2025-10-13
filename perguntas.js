@@ -17,13 +17,13 @@ criaCartao (
 )
 
 criaCartao (
-    'quizz',
+    'Quizz',
     'Oque sempre sobe, mas nunca desce ?',
     'Idade'
 )
 
 criaCartao (
-    'futebol',
+    'Futebol',
     'Qual time atual de Neymar.jr',
     'Santos F.C'
 )

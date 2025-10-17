@@ -18,10 +18,10 @@ cartao.innerHTML = `
     let respostaEstaVisivel = false;
 
     function viraCartao() {
-        respostaEstaVisivel = !repostaEstaVisivel
-        cartao.classList.toggle ('active', repostasEstaVisivel)
+        respostaEstaVisivel = !respostaEstaVisivel
+        cartao.classList.toggle ('active', respostaEstaVisivel)
     }
         cartao.addEventListener('click', viraCartao)
     
-        container.appenChield(cartao)            
+        container.appenChild(cartao)            
 }

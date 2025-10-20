@@ -75,7 +75,7 @@ body {
     background-color: rgba(0, 244, 191, 0.2);
 }
 
-.cartao:hover .cartao_conteudo {
+.cartao.active .cartao_conteudo {
     transform: rotateY(180deg);
 }
 
@@ -101,7 +101,8 @@ footer p {
     }
 
     .cartao {
-        flex: 1.0 calc(100% - 1rem);
+        flex: 1.0 calc(40% - 1rem);
+        heigth:45vw;
     }
 
     .cartao-conteudo h3 {

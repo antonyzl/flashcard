@@ -1,7 +1,7 @@
 :root {
-    --text-color: #000000
-    --card-front-color: #ff4000;
-    --card-back-color: #9d0303;
+    --text-color: #000000;
+    --card-front-color: #910;
+    --card-back-color: #ff0000;
 }
 
 body {
@@ -97,7 +97,7 @@ footer p {
 
 @media (max-width: 560px) {
     body {
-        background: url ('img/bg-mobile.webp');
+        background: url ('img/fundo-preto-vermelho-v0sr2yg97unoyt7n.jpg');
     }
 
     .cartao {
